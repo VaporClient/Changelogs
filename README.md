@@ -1,3 +1,5 @@
+
+
 # **Changelog**
 
 **Last update:** Launcher 1.1
@@ -17,6 +19,17 @@
 - Introduced **Auto-login** feature
 - Added **Loading Bar** for better UX
 - Fixed **False Flag** issue (Security patch)
+
+### **1.0**
+- First release
+
+---
+
+## **Installer**
+
+### **1.1**
+- Added network speed
+- Enchanded data detection
 
 ### **1.0**
 - First release
