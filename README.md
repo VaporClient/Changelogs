@@ -1,5 +1,24 @@
-## VaporClient Changelogs
+# **Changelog**
 
-```bash
-  1.0 BETA-1: first release (starter plan and basic plan)
-```
+**Last update:** Launcher 1.1
+
+## **VaporClient**
+
+### **1.0 BETA-1**
+- First release
+- Added **Starter Plan** and **Basic Plan**
+
+---
+
+## **Launcher**
+
+### **1.1**
+- Added **Auto-update** functionality
+- Introduced **Auto-login** feature
+- Added **Loading Bar** for better UX
+- Fixed **False Flag** issue (Security patch)
+
+### **1.0**
+- First release
+
+---
