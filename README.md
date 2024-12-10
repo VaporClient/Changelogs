@@ -1,37 +1,13 @@
-
-
 # **Changelog**
 
 **Last update:** Launcher 1.1
 
-## **VaporClient**
+ - [VaporClient Changelogs](https://github.com/VaporClient/Changelogs/blob/main/changelogs/vaporclient.md)
+ - [Launcher Changelogs](https://github.com/VaporClient/Changelogs/blob/main/changelogs/launcher.md)
+ - [Installer Changelogs](https://github.com/VaporClient/Changelogs/blob/main/changelogs/installer.md)
 
-### **1.0 BETA-1**
-- First release
-- Added **Starter Plan** and **Basic Plan**
 
----
 
-## **Launcher**
 
-### **1.1**
-- Added **Auto-update** functionality
-- Introduced **Auto-login** feature
-- Added **Loading Bar** for better UX
-- Fixed **False Flag** issue (Security patch)
 
-### **1.0**
-- First release
 
----
-
-## **Installer**
-
-### **1.1**
-- Added network speed
-- Enchanded data detection
-
-### **1.0**
-- First release
-
----
