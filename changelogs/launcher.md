@@ -1,5 +1,6 @@
 ## **Launcher Changelogs**
-
+ - [1.4 (17/04/2025)](https://github.com/VaporClient/Changelogs/blob/main/changelogs/launcher/1.4.md)
+ 
  - [1.3 (08/01/2025)](https://github.com/VaporClient/Changelogs/blob/main/changelogs/launcher/1.3.md)
 
  - [1.2 (05/01/2025)](https://github.com/VaporClient/Changelogs/blob/main/changelogs/launcher/1.2.md)
