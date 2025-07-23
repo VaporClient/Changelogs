@@ -1,5 +1,7 @@
 ## **VaporClient Changelog**
 
+ - [2.2 (23/07/2025)](https://github.com/VaporClient/Changelogs/blob/main/changelogs/vaporclient/2.2.md)
+  
  - [2.0 (18/04/2025)](https://github.com/VaporClient/Changelogs/blob/main/changelogs/vaporclient/2.0.md)
 
  - [1.0 BETA-3-FORGE (06/01/2025)](https://github.com/VaporClient/Changelogs/blob/main/changelogs/vaporclient/1.0%20beta-3-forge.md)
